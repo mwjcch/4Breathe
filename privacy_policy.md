@@ -9,6 +9,7 @@ For a better experience, while using our Service, I may require you to provide u
         Link to privacy policy of third party service providers used by the app
 * **Google Play Services:** https://www.google.com/policies/privacy
 * **AdMob:** https://support.google.com/admob/answer/6128543
+* **Audience Network:** http://www.en.audiencenetwork.pl/privacy-policy
 * **Firebase Analytics:** https://firebase.google.com/policies/analytics
 * **Fabric:** https://fabric.io/privacy
 #### Log Data
